@@ -1,0 +1,3 @@
+[submodule "src/artifacts/aave-v2/code"]
+	path = src/artifacts/aave-v2/code
+	url = git@github.com:aave/protocol-v2.git
